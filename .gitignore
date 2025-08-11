@@ -8,10 +8,11 @@ __pycache__/
 
 # data & checkpoints
 data/
-!data/.gitkeep
-!checkpoints/.gitkeep
+checkpoints/
 
 # os/editor
 .DS_Store
 .idea/
 .vscode/
+
+**/test.py
