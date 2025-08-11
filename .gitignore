@@ -1,0 +1,17 @@
+# env & venv
+.env
+*.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# data & checkpoints
+data/
+!data/.gitkeep
+!checkpoints/.gitkeep
+
+# os/editor
+.DS_Store
+.idea/
+.vscode/
