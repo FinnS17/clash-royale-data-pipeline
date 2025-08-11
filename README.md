@@ -11,7 +11,7 @@ Reproducible pipeline to ingest Clash Royale battle logs via the official Clash 
 
 3. **Set your API token**  
    cp .env.example .env  
-   # Then edit .env and set CLASH_API_TOKEN
+   #Then edit .env and set CLASH_API_TOKEN
 
 4. **Run the main script**  
    python main.py
